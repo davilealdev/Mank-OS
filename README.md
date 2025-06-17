@@ -11,11 +11,11 @@ ___
 
 > **Processo Atual**:
 - **Terminal com controle de arquivos**______❌
-- Kernel____________________________❌
-- Interface principal___________________❌
-- Configurações do OS________________❌
-- Aplicativos Básicos__________________❌
-- Resto_____________________________❌
+- Kernel_____________________________________❌
+- Interface principal________________________❌
+- Configurações do OS________________________❌
+- Aplicativos Básicos________________________❌
+- Resto______________________________________❌
 
 
 **Made By Randone🐸**
