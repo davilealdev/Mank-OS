@@ -13,7 +13,7 @@ ___
 - **Terminal com controle de arquivos**______❌
 - Kernel_____________________________________❌
 - Interface principal________________________❌
-- Configurações do OS________________________❌
+- Configurações do OS______________________❌
 - Aplicativos Básicos________________________❌
 - Resto______________________________________❌
 
