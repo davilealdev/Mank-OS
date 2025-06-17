@@ -12,8 +12,8 @@ ___
 > **Processo Atual**:
 - **Terminal com controle de arquivos**______❌
 - Kernel_____________________________________❌
-- Interface principal________________________❌
-- Configurações do OS______________________❌
+- Interface principal_________________________❌
+- Configurações do OS_____________________❌
 - Aplicativos Básicos________________________❌
 - Resto______________________________________❌
 
